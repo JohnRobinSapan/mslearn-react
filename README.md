@@ -1,3 +1,10 @@
+# Microsoft Learn for creating your first web apps with React
+React.js is the most popular front-end JavaScript framework. Through JSX, a combination of HTML and JavaScript, developers are able to create views in a natural fashion. Developers can also create components for reusable blocks across their applications. This learning path will introduce you to React, and the core skills you need as a developer to use this powerful framework.
+
+This repo contains the exercises for the Microsoft Learning Path: [Creating your first web apps with React](https://learn.microsoft.com/en-us/training/paths/react/).
+
+### Prerequisites
+Knowledge of HTML/CSS, JavaScript, Git, npm, and some experience with React.
 
 # Contributing
 
